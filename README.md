@@ -6,12 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Landing page templace created with React.
 
-##Technologies
+## Technologies
 
-#React
-#styled-components
-#React Router
-#React-scroll
+# React
+
+# styled-components
+
+# React Router
+
+# React-scroll
+
+## How to use
 
 ### `npm start`
 
