@@ -8,13 +8,13 @@ Landing page templace created with React.
 
 ## Technologies
 
-# React
+- React
 
-# styled-components
+- styled-components
 
-# React Router
+- React Router
 
-# React-scroll
+- React-scroll
 
 ## How to use
 
