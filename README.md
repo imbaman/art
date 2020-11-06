@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# Art landing page app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## General info
 
-It is a template of a landing page.
+Landing page templace created with React.
+
+##Technologies
+
+#React
+#styled-components
+#React Router
+#React-scroll
 
 ### `npm start`
 
