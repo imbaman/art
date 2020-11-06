@@ -5,7 +5,7 @@ width:100%;
 max-width:1100px;
 margin : 0 auto;
 padding:50px 24px;
-margin-bottom:400px;
+margin-bottom:200px;
 `
 
 export const TextWrapper = styled.div `
